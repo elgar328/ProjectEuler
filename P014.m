@@ -24,5 +24,3 @@ while n~=1
     end
 end
 end
-
-% memoization 기법 사용해서 개선 요
